@@ -7,22 +7,24 @@
           "nome": "Interpretação de Texto",
           "questoes": [
             {
+              "id": "PT-INT-001",
               "pergunta": "O objetivo principal de um texto narrativo é:",
               "alternativas": [
-                "Explicar conceitos",
-                "Contar acontecimentos",
-                "Convencer o leitor",
+                "Explicar",
+                "Contar",
+                "Convocador ou leitor",
                 "Ensinar regras"
               ],
               "correta": 1
             },
             {
+              "id": "PT-INT-002",
               "pergunta": "Texto argumentativo busca:",
               "alternativas": [
-                "Narrar fatos",
-                "Defender uma ideia",
+                "Narrador",
+                "Defensor uma vez",
                 "Descrever lugares",
-                "Listar objetos"
+                "Listar"
               ],
               "correta": 1
             }

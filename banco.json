@@ -1,0 +1,34 @@
+{
+  "materias": [
+    {
+      "nome": "Português",
+      "topicos": [
+        {
+          "nome": "Interpretação de Texto",
+          "questoes": [
+            {
+              "pergunta": "O objetivo principal de um texto narrativo é:",
+              "alternativas": [
+                "Explicar conceitos",
+                "Contar acontecimentos",
+                "Convencer o leitor",
+                "Ensinar regras"
+              ],
+              "correta": 1
+            },
+            {
+              "pergunta": "Texto argumentativo busca:",
+              "alternativas": [
+                "Narrar fatos",
+                "Defender uma ideia",
+                "Descrever lugares",
+                "Listar objetos"
+              ],
+              "correta": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
